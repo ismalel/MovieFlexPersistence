@@ -1,6 +1,6 @@
-package com.ismael.movieflexpersistence.entity.base
+package com.ismael.movieflexpersistence.entity.movie
 
-class Data (
+class MovieData (
 
     var page         : Int?          = null,
     var results      : List<Result> = arrayListOf(),

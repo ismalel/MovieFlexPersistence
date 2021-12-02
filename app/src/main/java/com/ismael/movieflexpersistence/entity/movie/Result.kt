@@ -1,4 +1,4 @@
-package com.ismael.movieflexpersistence.entity.base
+package com.ismael.movieflexpersistence.entity.movie
 
 class Result (
 
