@@ -4,7 +4,7 @@ import com.ismael.movieflexpersistence.entity.movie.MovieResult
 
 class TVData (
     var page         : Int?          = null,
-    var movieResults      : ArrayList<TVResult> = arrayListOf(),
-    var totalPages   : Int?          = null,
-    var totalResults : Int?          = null
+    var results      : ArrayList<TVResult> = arrayListOf(),
+    var total_pages   : Int?          = null,
+    var total_results : Int?          = null
 )
