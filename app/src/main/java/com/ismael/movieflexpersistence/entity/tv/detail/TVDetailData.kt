@@ -5,7 +5,7 @@ class TVDetailData(
     val created_by : List<Created_by>,
     val episode_run_time : List<Int>,
     val first_air_date : String,
-    val genres : List<Genres>,
+    val genres : ArrayList<Genres>,
     val homepage : String,
     val id : Int,
     val in_production : Boolean,
@@ -30,6 +30,6 @@ class TVDetailData(
     val status : String,
     val tagline : String,
     val type : String,
-    val vote_average : Int,
+    val vote_average : Double,
     val vote_count : Int
 )
