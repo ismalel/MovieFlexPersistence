@@ -1,6 +1,6 @@
 package com.ismael.movieflexpersistence
 
-class DetailData (
+class MovieDetailData (
 
   var adult               : Boolean?                  = null,
   var backdrop_path        : String?                   = null,

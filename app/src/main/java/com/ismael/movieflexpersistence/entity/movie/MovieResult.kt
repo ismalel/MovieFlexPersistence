@@ -1,6 +1,6 @@
 package com.ismael.movieflexpersistence.entity.movie
 
-class Result (
+class MovieResult (
 
   var adult            : Boolean?  = null,
   var backdrop_path    : String?   = null,
